@@ -10,7 +10,7 @@
 
 1. Clone the repository
 ```bash
-git clone <[repository_url](https://github.com/Yair-fartouh/RealTimeYOLO.git)>
+git clone https://github.com/Yair-fartouh/RealTimeYOLO.git
 cd <project_directory>
 ```
 
